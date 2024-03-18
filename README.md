@@ -1,3 +1,21 @@
+The deployed [application](https://katsusika-hokusai-owc9wrfn9-allegras-projects-b88bac0f.vercel.app/)
+
+The scope:
+
+-- `next.js`
+
+-- `react`
+
+-- `bootstrap`
+
+-- `react-bootstrap`
+
+-- `react-masonry-css`
+
+-- `json-server` for api
+
+-- `vercel` for the deploy
+__________________
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
