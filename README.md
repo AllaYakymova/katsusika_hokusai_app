@@ -1,4 +1,4 @@
-The deployed [application](https://katsusika-hokusai-owc9wrfn9-allegras-projects-b88bac0f.vercel.app/)
+The deployed [application](https://katsusika-hokusai-app.vercel.app)
 
 The scope:
 
