@@ -35,10 +35,10 @@ export default async function ArticlePage({params}) {
 
 // prerender article pages html
 
-export async function generateStaticParams() {
-  const articles = await fetch(`http://localhost:3004/articles`)
-    .then(res => res.json())
-
-
-  return articles.map(art => ({id: String(art.id)}))
-}
+// export async function generateStaticParams() {
+//   const articles = await fetch(`${process.env.JSON_API}/articles`)
+//     .then(res => res.json())
+//
+//
+//   return articles.map(art => ({id: String(art.id)}))
+// }
